@@ -1,5 +1,5 @@
 <h1 align="center">TURULETE PARACHUTE</h1>
-<h2 align="center">Playable Game Made From a C++ &amp; OpenGL Game Engine From Scratch</h2>
+<h2 align="center">Playable Game Created With a C++ &amp; OpenGL Custom Game Engine From The Ground Up</h2>
 
 <p align="center">
 <img src="images/Game.gif" width="50%">
