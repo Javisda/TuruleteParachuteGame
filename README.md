@@ -4,7 +4,7 @@
 
 <img src="images/Game.gif" width="50%">
 
-<h2 style="text-align:center;font-size:10px;">Goals of the project</h2>
+<p style="text-align:center;font-size:10px;">Goals of the project</p>
 
 <ul>
   <li>Game created from a custom game engine programmed in C++ using OpenGL for graphics in the early days of my studies.</li>
