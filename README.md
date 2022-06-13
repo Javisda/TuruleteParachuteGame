@@ -1,16 +1,20 @@
-# TuruleteParachuteGame
-<h1>Playable Game Made From a C++ &amp; OpenGL Game Engine From Scratch</h1>
+<h1 align="center">TURULETE PARACHUTE</h1>
+<h2 align="center">Playable Game Made From a C++ &amp; OpenGL Game Engine From Scratch</h2>
 
-
+<p align="center">
 <img src="images/Game.gif" width="50%">
+</p>
 
-<p style="text-align:center;font-size:10px;">Goals of the project</p>
+<br><br>
 
+<h2>Goals of the project</h2>
 <ul>
   <li>Game created from a custom game engine programmed in C++ using OpenGL for graphics in the early days of my studies.</li>
   <li>The main goal of this is to learn the basics of a game engine functionalities while improving C++ skills.</li>
   <li>Rowboats and turulete meshes are from free online resources.</li>
 </ul>
+
+<br>
 
 <h2>Controls</h2>
 <ul>
