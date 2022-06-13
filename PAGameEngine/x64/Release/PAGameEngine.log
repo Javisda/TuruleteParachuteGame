@@ -1,0 +1,50 @@
+﻿  EngineJson.cpp
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\cylinder.h(12,1): warning C4150: eliminación de puntero a tipo 'GLUquadric' incompleto; no se ha llamado a un destructor
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glu.h(163): message : vea la declaración de 'GLUquadric'
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(7,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(8,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(9,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\EngineJson.cpp(13,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\EngineJson.cpp(14,26): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\EngineJson.cpp(15,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  game.cpp
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\cylinder.h(12,1): warning C4150: eliminación de puntero a tipo 'GLUquadric' incompleto; no se ha llamado a un destructor
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glu.h(163): message : vea la declaración de 'GLUquadric'
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(7,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(8,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\light.h(9,11): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\PAGameEngine\game.cpp(72,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  Generando código
+  2 of 955 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  PAGameEngine.vcxproj -> D:\DYDDV - URJC\2 Año\1º Cuatri\Programacion avanzada\Practica\entregable v1\x64\Release\PA_Engine_Json.exe
